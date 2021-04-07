@@ -21,17 +21,18 @@ body {
 
 .header-symbol {
     width: 3rem;
-
+    margin-left: 13rem;
 }
 
 .header-title {
     padding: 2rem;
+    margin-right: 20rem;
 }
 
 .header-list {
-    padding: 2rem;
     display: flex;
     list-style: none;
+    padding: 2rem;
 }
 
 nav ul li {
@@ -48,29 +49,29 @@ nav ul li:hover {
 }
 
 .body-image {
-    width: 45rem;
-    height: 60rem;
     background-image: url(the\ witcher\ kavil2.png);
     background-repeat: no-repeat;
     position: relative;
+    width: 45rem;
+    height: 60rem;
 }
 
 .witcher-logo {
-    width: 35rem;
-    height: 15rem;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
     top: 30rem;
     left: 5rem;
+    width: 35rem;
+    height: 15rem;
 }
 
 .main-button {
-    width: 20rem;
-    height: 6rem;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
     top: 32rem;
     left: 13rem;
+    width: 20rem;
+    height: 6rem;
 }
